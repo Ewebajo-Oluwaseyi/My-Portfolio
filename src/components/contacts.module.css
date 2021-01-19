@@ -1,0 +1,21 @@
+.contactBody {
+  margin: fixed;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  padding: 2em;
+  background: white;
+}
+.contactGrid {
+  text-align: center;
+  justify-content: center;
+  width: 80%;
+  height: 550px;
+  color: black;
+  margin-bottom: 20px;
+}
+.contactGridH2 {
+  font-family: 'Anton' sans-serif;
+  font-weight: bold;
+}
